@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 
 - 🔧 Desenvolvendo projetos em diversas tecnologias e sempre buscando aprender mais  
-- 🎓 Nível de inglês B2 (Britânico) — com foco em conversação e uso técnico  
+- 🎓 Nível de inglês B2 (BrE e AmE) — com foco em conversação e uso técnico  
 - 📈 Em busca de oportunidades como desenvolvedora  
 - 💡 Apaixonada por tecnologia e constantemente aprimorando meus conhecimentos em programação  
 - 📐 Boa base em matemática, com raciocínio lógico e conversão de bases numéricas computacionais  
