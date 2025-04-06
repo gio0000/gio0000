@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Giordana 👋</h1>
 
 <p align="center">
-  Desenvolvedora fullstack em formação | Apaixonada por tecnologia 💻 | Ingles
+  Desenvolvedora fullstack em formação | Apaixonada por tecnologia  | Inglês B2
 </p>
 
 ---
@@ -9,10 +9,12 @@
 ### 🚀 Sobre mim
 
 - 🔧 Estou aprendendo e desenvolvendo projetos em várias tecnologias
-- 🎓 Estudante de inglês há 4 anos — formando este ano!
+- 🎓 Inglês B2
 - 📈 Em busca de oportunidades como desenvolvedora
-- 💡 Sempre explorando coisas novas no mundo da programação
+- 💡 Sempre explorando coisas novas no mundo da programação e aprimorando meus conhecimentos
+-  📐 Matemática com raciocínio lógico e conversão de bases númericas computacionais
 
+  
 ---
 
 ### 🧠 Conhecimentos
@@ -30,18 +32,18 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-- 🧩 Python + Qt Designer
+- 🧩 Python 
 - 🌐 Desenvolvimento Web com HTML, CSS e JavaScript
 - 🗃️ Banco de dados com MySQL
 - ☕ Java básico + Programação Orientada a Objetos em python (POO)
 
 ---
 
-### 📫 Contato
+### 📫 Entre em contato!
 
 - ✉️ Email: giordanastumm7@gmail.com 
 - 💼 LinkedIn: [SeuLinkedIn](www.linkedin.com/in/giordana-stumm-13786133a)  
--  
+  
 
 
 
