@@ -43,13 +43,8 @@
 - 💼 LinkedIn: [SeuLinkedIn](www.linkedin.com/in/giordana-stumm-13786133a)  
 -  
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 ---
 
