@@ -8,11 +8,13 @@
 
 ### 🚀 Sobre mim
 
-- 🔧 Estou aprendendo e desenvolvendo projetos em várias tecnologias
-- 🎓 Inglês B2
-- 📈 Em busca de oportunidades como desenvolvedora
-- 💡 Sempre explorando coisas novas no mundo da programação e aprimorando meus conhecimentos
--  📐 Matemática com raciocínio lógico e conversão de bases númericas computacionais
+- 🔧 Desenvolvendo projetos em diversas tecnologias e sempre buscando aprender mais  
+- 🎓 Nível de inglês B2 (Britânico) — com foco em conversação e uso técnico  
+- 📈 Em busca de oportunidades como desenvolvedora  
+- 💡 Apaixonada por tecnologia e constantemente aprimorando meus conhecimentos em programação  
+- 📐 Boa base em matemática, com raciocínio lógico e conversão de bases numéricas computacionais  
+- 🧰 Conhecimento em hardware: montagem, manutenção e diagnóstico de computadores
+
 
   
 ---
