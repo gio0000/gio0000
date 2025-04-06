@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Giordana 👋</h1>
+<h1 align="center">Olá! Eu sou Giordana </h1>
 
 <p align="center">
   Desenvolvedora fullstack em formação | Apaixonada por tecnologia  | Inglês B2
