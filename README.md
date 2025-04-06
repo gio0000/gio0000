@@ -42,7 +42,7 @@
 ### 📫 Entre em contato!
 
 - ✉️ Email: giordanastumm7@gmail.com 
-- 💼 LinkedIn: [SeuLinkedIn](www.linkedin.com/in/giordana-stumm-13786133a)  
+- 💼 LinkedIn:(www.linkedin.com/in/giordana-stumm-13786133a)  
   
 
 
