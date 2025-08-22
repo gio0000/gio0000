@@ -62,10 +62,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="180" alt="Animação de código"/>
 </p>
 
-- 📂 [Meu Portfólio](https://github.com/giordanastumm7) – projetos completos com README detalhado e prints  
-- 💻 [Pedaleira Digital em Python](https://github.com/giordanastumm7/pedaleira) – manipulação de áudio em tempo real  
-- 🌱 [Site de Agronomia](https://github.com/giordanastumm7/agronomia) – site responsivo com visual moderno  
-- 🎸 [Loja de Guitarras](https://github.com/giordanastumm7/loja-guitarras) – e-commerce completo  
+- 📂 [Meu Portfólio](https://gio0000.github.io/portifolio-responsivo/?fbclid=PAZXh0bgNhZW0CMTEAAacf7kA8Byv-QbBxas87rDPn5ZS_ULUlwG868JF1fiIb211xYqpR4AGgp5AK0A_aem_jNRydJjUkYsRsOhPqKhoPQ) – projetos completos com README detalhado e prints  
+- 💻 [Pedaleira Digital em Python](https://github.com/gio0000/Pedaleira-para-guitarra) – manipulação de áudio em tempo real  
+- 🌱 [Site de Agronomia](https://github.com/gio0000/site-agroneg-cios) – site responsivo com visual moderno  
+- 🎸 [Loja de Guitarras](https://github.com/gio0000/ecommerce-guitarras) – e-commerce completo
+- 🖥️ [Manutenção de computadores](https://www.linkedin.com/posts/giordana-stumm-13786133a_projeto-integrador-activity-7335079937172779008-zHq5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFUzLXsBEgwMoF5ADCCX3xxZHtSqtf4yuQ0)
 
 ---
 
