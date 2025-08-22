@@ -8,9 +8,8 @@
 
 ### 🚀 Sobre mim
 
-- 🔧 Apaixonada por tecnologia, sempre criando e evoluindo projetos  
-- 🎓 Inglês B2 (BrE e AmE) — focado em conversação e uso técnico  
-- 📈 Em busca de oportunidades como desenvolvedora fullstack  
+
+- 🎓 Inglês B2 (BrE e AmE) — focado em conversação e uso técnico    
 - 🧰 Experiência em hardware: montagem, manutenção, diagnóstico e conserto de computadores  
 - 💡 Fundadora da **Gio Tech**, empresa que engloba:
   - Manutenção e conserto de PCs  
@@ -47,7 +46,8 @@
 ### 🛠️ Ferramentas e Experiência
 
 - ⚡ Desenvolvimento Web com HTML, CSS e JavaScript  
-- ☕ Java + Programação Orientada a Objetos (POO)  
+- ☕ Java
+- 💻 POO
 - 🧩 Python e manipulação de dados  
 - 🗃️ Banco de dados: MySQL e SQL/PL  
 - 🧰 Manutenção, diagnóstico e conserto de computadores  
@@ -59,7 +59,7 @@
 ### ✨ Projetos & Demonstrações
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="180" alt="Animação de código"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="180" alt="Animação de código"/>
 </p>
 
 - 📂 [Meu Portfólio](https://github.com/giordanastumm7) – projetos completos com README detalhado e prints  
