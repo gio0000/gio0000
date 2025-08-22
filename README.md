@@ -48,7 +48,7 @@
 - ⚡ Desenvolvimento Web com HTML, CSS e JavaScript  
 - ☕ Java
 - 💻 POO
-- 🧩 Python e manipulação de dados  
+- 🧩 Python
 - 🗃️ Banco de dados: MySQL e SQL/PL  
 - 🧰 Manutenção, diagnóstico e conserto de computadores  
 - 🖥️ Desenvolvimento de software e aplicativos  
