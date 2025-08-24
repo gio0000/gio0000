@@ -67,7 +67,7 @@
 - 🌱 [Site de Agronomia](https://github.com/gio0000/site-agroneg-cios) – site responsivo com visual moderno  
 - 🎸 [Loja de Guitarras](https://github.com/gio0000/ecommerce-guitarras) – e-commerce completo
 - 🖥️ [Manutenção de computadores](https://www.linkedin.com/posts/giordana-stumm-13786133a_projeto-integrador-activity-7335079937172779008-zHq5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFUzLXsBEgwMoF5ADCCX3xxZHtSqtf4yuQ0)
-
+-    [Simulador criador de planetas](https://gio0000.github.io/Planetario/)
 ---
 
 ### 📫 Entre em contato
