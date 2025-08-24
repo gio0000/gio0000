@@ -75,7 +75,7 @@
 <p align="center">
   <a href="mailto:giordanastumm7@gmail.com">✉️ Email</a> | 
   <a href="https://www.linkedin.com/in/giordana-stumm-13786133a">💼 LinkedIn</a> | 
-  <a href="https://www.instagram.com/giotech">🌐 Gio Tech</a>
+  <a href="https://www.instagram.com/gio__tech">🌐 Gio Tech</a>
 </p>
 
 ---
