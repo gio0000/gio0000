@@ -47,7 +47,6 @@
 
 - ⚡ Desenvolvimento Web com HTML, CSS, JavaScript e React.
 - ☕ Java
-- 💻 POO
 - 🧩 Python
 - 🗃️ Banco de dados: MySQL, SQL/PL e NoSql.  
 - 🧰 Manutenção, diagnóstico e conserto de computadores  
