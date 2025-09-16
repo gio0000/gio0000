@@ -45,11 +45,11 @@
 
 ### 🛠️ Ferramentas e Experiência
 
-- ⚡ Desenvolvimento Web com HTML, CSS e JavaScript  
+- ⚡ Desenvolvimento Web com HTML, CSS, JavaScript e React.
 - ☕ Java
 - 💻 POO
 - 🧩 Python
-- 🗃️ Banco de dados: MySQL e SQL/PL  
+- 🗃️ Banco de dados: MySQL, SQL/PL e NoSql.  
 - 🧰 Manutenção, diagnóstico e conserto de computadores  
 - 🖥️ Desenvolvimento de software e aplicativos  
 - 🌐 Git, GitHub e versionamento de projetos  
