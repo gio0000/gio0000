@@ -11,7 +11,7 @@
 
 - 🎓 Inglês B2 (BrE e AmE) — focado em conversação e uso técnico    
 - 🧰 Experiência em hardware: montagem, manutenção, diagnóstico e conserto de computadores  
-- 💡 Fundadora da **Gio Tech**, empresa que engloba:
+- 💡 Fundadora da **Stack Solutions**, empresa que engloba:
   - Manutenção e conserto de PCs  
   - Diagnóstico e otimização de sistemas  
   - Desenvolvimento de softwares e aplicativos  
