@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Giordana ✨</h1>
 
 <p align="center">
-  Desenvolvedora Fullstack em formação | Técnica em Informática | Inglês B2 | Fundadora da <b>Stack Solutions</b>
+  Desenvolvedora Fullstack em formação | Técnica em Informática | Cientista de dados | Inglês B2 | Fundadora da <b>Stack Solutions</b>
 </p>
 
 ---
