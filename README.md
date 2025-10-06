@@ -66,7 +66,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="180" alt="Animação de código"/>
 </p>
 
-- 📂 [Meu Portfólio](https://gio0000.github.io/giordana.portifolio.io/) – projetos completos com README detalhado e prints  
+- 📂 [Meu Portfólio](https://celestial-coder-gio.vercel.app/) – projetos completos com README detalhado e prints  
 - 💻 [Pedaleira Digital em Python](https://github.com/gio0000/Pedaleira-para-guitarra) – manipulação de áudio em tempo real  
 - 🌱 [Site de Agronomia](https://github.com/gio0000/site-agroneg-cios) – site responsivo com visual moderno  
 - 🎸 [Loja de Guitarras](https://github.com/gio0000/ecommerce-guitarras) – e-commerce completo
