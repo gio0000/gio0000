@@ -24,31 +24,60 @@ Também possuo base em **Front-end (HTML, CSS, JavaScript e React)**, o que faci
 - 🌍 Inglês B2 (CEFR) — leitura técnica e comunicação
 - 🧠 Forte base em lógica, POO e estruturas de dados
 - 🗄️ Integração com bancos de dados relacionais e NoSQL
-- 🔧 Experiência prática com projetos reais e acadêmicos
+- 🔧 Experiência prática com projetos acadêmicos e pessoais
 
 ---
 
 ## 🧰 Stack Técnica
 
 ### 🔹 Back-end
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+</p>
+
 - Java
 - Python
 - APIs REST
 - Arquitetura em camadas (MVC)
 - Lógica de negócio
 
+---
+
 ### 🔹 Banco de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+</p>
+
 - MySQL
 - Oracle SQL / PL-SQL
 - NoSQL
 
+---
+
 ### 🔹 Front-end (base)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+</p>
+
 - HTML5
 - CSS3
 - JavaScript
 - React
 
+---
+
 ### 🔹 Versionamento
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+</p>
+
 - Git
 - GitHub
 
@@ -75,7 +104,7 @@ Website institucional responsivo com foco em apresentação comercial e estrutur
 
 ## 🏢 Experiência com Projetos Reais
 
-Possuo experiência prática com projetos reais por meio da iniciativa **Stack Solutions**, atuando no desenvolvimento de sistemas, aplicações web e soluções técnicas para pequenos negócios.
+Possuo experiência prática com projetos reais por meio da iniciativa **Stack Solutions** minha empresa, atuando no desenvolvimento de sistemas, aplicações web e soluções técnicas para pequenos negócios.
 
 ---
 
@@ -91,5 +120,5 @@ Possuo experiência prática com projetos reais por meio da iniciativa **Stack S
 
 <p align="center">
 ✨ Obrigada por visitar meu perfil! ✨  
-Aberta a oportunidades como Desenvolvedora Back-end Júnior.
+Aberta a oportunidades como <b>Desenvolvedora Back-end Júnior</b>.
 </p>
