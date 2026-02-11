@@ -85,8 +85,8 @@ Também possuo base em **Front-end (HTML, CSS, JavaScript e React)**, o que faci
 
 ## ✨ Projetos em Destaque
 
-🔹 **[Portfólio Online](https://giordana-s-digital-haven.vercel.app/)**  
-Apresentação de projetos com descrição técnica, imagens e demonstrações.
+🔹 **[Portfólio Online](https://giordana-portifolio-2026.vercel.app/)**  
+Apresentação de projetos com descrição técnica.
 
 🔹 **[Landing page para loja de joias ( Pacote premium da Stack Solutions)](https://landing-page-premium-zeta.vercel.app/)**  
 Com design elegante, interface responsiva, seção de benefícios, apresentação de produtos e navegação intuitiva.
