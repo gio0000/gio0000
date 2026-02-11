@@ -88,6 +88,8 @@ Também possuo base em **Front-end (HTML, CSS, JavaScript e React)**, o que faci
 🔹 **[Portfólio Online](https://giordana-s-digital-haven.vercel.app/)**  
 Apresentação de projetos com descrição técnica, imagens e demonstrações.
 
+🔹 **[Site da Stack Solutions](https://stack-solutions-your-digital-partne.vercel.app/)**  
+Website institucional da minha empresa, com design moderno, responsivo e foco em experiência do usuário, apresentando serviços, projetos e contato.
 
 🔹 **[Pedaleira Digital para Guitarras](https://github.com/gio0000/Pedaleira-para-guitarra)**  
 Sistema desenvolvido em **Python** com foco em **processamento de áudio em tempo real**, aplicação de efeitos sonoros e gerenciamento de lógica de negócio.
