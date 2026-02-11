@@ -88,6 +88,15 @@ Também possuo base em **Front-end (HTML, CSS, JavaScript e React)**, o que faci
 🔹 **[Portfólio Online](https://giordana-s-digital-haven.vercel.app/)**  
 Apresentação de projetos com descrição técnica, imagens e demonstrações.
 
+🔹 **[Landing page para loja de joias ( Pacote premium da Stack Solutions)](https://landing-page-premium-zeta.vercel.app/)**  
+Com design elegante, interface responsiva, seção de benefícios, apresentação de produtos e navegação intuitiva.
+
+🔹 **[Landing page para loja de roupas (Pacote profissional da Stack Solutions) ](PASS)**  
+Landing page para loja de roupas, com foco em conversão e experiência do usuário, incluindo apresentação de produtos, destaques de coleção e área de contato.
+
+🔹 **[Landing page para manicure (Pacote essencial da Stack Solutions) ](https://landing-page-exemplo.vercel.app/)**  
+Landing page desenvolvida para serviço de manicure, com interface prática, seções de benefícios, depoimentos e design responsivo para dispositivos móveis.
+
 🔹 **[Site da Stack Solutions](https://stack-solutions-your-digital-partne.vercel.app/)**  
 Website institucional da minha empresa, com design moderno, responsivo e foco em experiência do usuário, apresentando serviços, projetos e contato.
 
