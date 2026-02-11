@@ -85,8 +85,9 @@ Também possuo base em **Front-end (HTML, CSS, JavaScript e React)**, o que faci
 
 ## ✨ Projetos em Destaque
 
-🔹 **[Portfólio Online](https://celestial-coder-gio.vercel.app/)**  
+🔹 **[Portfólio Online](https://giordana-s-digital-haven.vercel.app/)**  
 Apresentação de projetos com descrição técnica, imagens e demonstrações.
+
 
 🔹 **[Pedaleira Digital para Guitarras](https://github.com/gio0000/Pedaleira-para-guitarra)**  
 Sistema desenvolvido em **Python** com foco em **processamento de áudio em tempo real**, aplicação de efeitos sonoros e gerenciamento de lógica de negócio.
