@@ -91,7 +91,7 @@ Apresentação de projetos com descrição técnica, imagens e demonstrações.
 🔹 **[Landing page para loja de joias ( Pacote premium da Stack Solutions)](https://landing-page-premium-zeta.vercel.app/)**  
 Com design elegante, interface responsiva, seção de benefícios, apresentação de produtos e navegação intuitiva.
 
-🔹 **[Landing page para loja de roupas (Pacote profissional da Stack Solutions) ](PASS)**  
+🔹 **[Landing page para loja de roupas (Pacote profissional da Stack Solutions) ](https://landing-page-profissional-sage.vercel.app/)**  
 Landing page para loja de roupas, com foco em conversão e experiência do usuário, incluindo apresentação de produtos, destaques de coleção e área de contato.
 
 🔹 **[Landing page para manicure (Pacote essencial da Stack Solutions) ](https://landing-page-exemplo.vercel.app/)**  
