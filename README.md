@@ -88,14 +88,6 @@ Também possuo base em **Front-end (HTML, CSS, JavaScript e React)**, o que faci
 🔹 **[Portfólio Online](https://giordana-portifolio-2026.vercel.app/)**  
 Apresentação de projetos com descrição técnica.
 
-🔹 **[Landing page para loja de joias ( Pacote premium da Stack Solutions)](https://landing-page-premium-zeta.vercel.app/)**  
-Com design elegante, interface responsiva, seção de benefícios, apresentação de produtos e navegação intuitiva.
-
-🔹 **[Landing page para loja de roupas (Pacote profissional da Stack Solutions) ](https://landing-page-profissional-sage.vercel.app/)**  
-Landing page para loja de roupas, com foco em conversão e experiência do usuário, incluindo apresentação de produtos, destaques de coleção e área de contato.
-
-🔹 **[Landing page para manicure (Pacote essencial da Stack Solutions) ](https://landing-page-exemplo.vercel.app/)**  
-Landing page desenvolvida para serviço de manicure, com interface prática, seções de benefícios, depoimentos e design responsivo para dispositivos móveis.
 
 🔹 **[Site da Stack Solutions](https://stack-solutions-your-digital-partne.vercel.app/)**  
 Website institucional da minha empresa, com design moderno, responsivo e foco em experiência do usuário, apresentando serviços, projetos e contato.
@@ -109,8 +101,6 @@ Aplicação desenvolvida em **Java**, com foco em **lógica matemática**, simul
 🔹 **[E-commerce de Guitarras](https://github.com/gio0000/ecommerce-guitarras)**  
 Aplicação web com integração entre front-end e back-end, banco de dados e regras básicas de negócio.
 
-🔹 **[Site de Vendas de Máquinas Agrícolas](https://github.com/gio0000/site-agroneg-cios)**  
-Website institucional responsivo com foco em apresentação comercial e estrutura organizada.
 
 ---
 
