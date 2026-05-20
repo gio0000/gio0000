@@ -90,6 +90,7 @@ Também possuo base em **Front-end (HTML, CSS, JavaScript e React)**, o que faci
 Apresentação de projetos com descrição técnica.
 
 🔹 **[API Spring Boot produtos](https://github.com/gio0000/API-SPRING-BOOT-PRODUTOS)** 
+
 API REST desenvolvida com Java e Spring Boot para gerenciamento de produtos.
 
 🔹 **[Site da Stack Solutions](https://stack-solutions-your-digital-partne.vercel.app/)**  
