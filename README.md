@@ -41,6 +41,7 @@ Também possuo base em **Front-end (HTML, CSS, JavaScript e React)**, o que faci
 - APIs REST
 - Arquitetura em camadas (MVC)
 - Lógica de negócio
+- -Spring Boot
 
 ---
 
@@ -88,6 +89,8 @@ Também possuo base em **Front-end (HTML, CSS, JavaScript e React)**, o que faci
 🔹 **[Portfólio Online](https://giordana-portifolio-2026.vercel.app/)**  
 Apresentação de projetos com descrição técnica.
 
+🔹 **[API Spring Boot produtos](https://github.com/gio0000/API-SPRING-BOOT-PRODUTOS)** 
+API REST desenvolvida com Java e Spring Boot para gerenciamento de produtos.
 
 🔹 **[Site da Stack Solutions](https://stack-solutions-your-digital-partne.vercel.app/)**  
 Website institucional da minha empresa, com design moderno, responsivo e foco em experiência do usuário, apresentando serviços, projetos e contato.
