@@ -127,6 +127,6 @@ I am interested in working with Software Development, Back-end, Java, APIs, data
 
 <a href="https://www.linkedin.com/in/giordana-stumm-13786133a">💼 LinkedIn</a> |
 
-<a href="https://www.instagram.com/stack__solutions/">💻 Stack Solutions</a>
+<a href="https://www.instagram.com/stack__solutions/">💻 Stack Solutions</a> | 
 
 </p>
