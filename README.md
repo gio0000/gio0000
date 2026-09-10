@@ -1,140 +1,132 @@
-<h1 align="center">Olá! Eu sou a Giordana 👋</h1>
+<h1 align="center">Hi! I'm Giordana 👋</h1>
 
 <p align="center">
-  Técnica em Informática | Software Development | Java | Back-end
-  <br>
-  Inglês B2 • Alemão A1
+
+Information Technology Technician | Software Development | Java | Back-end
+
+<br>
+
+English B2 • German A1
+
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou Técnica em Informática com foco em **Desenvolvimento de Software**, com interesse principalmente em **Back-end e desenvolvimento de sistemas**.
+I am an **Information Technology Technician** focused on **Software Development**, with a particular interest in **Back-end and systems development**.
 
-Possuo conhecimentos em **Java, Python, APIs REST e bancos de dados**, além de uma base sólida em **lógica de programação, Programação Orientada a Objetos (POO), estruturas de dados e regras de negócio**.
+I have knowledge of **Java, Python, REST APIs, and databases**, as well as a solid foundation in **programming logic, Object-Oriented Programming (OOP), data structures, and business rules**.
 
-Atualmente, atuo na **Programação de Produção da Nestlé**, onde desenvolvo experiência prática com **processos, análise e validação de informações, organização de dados, identificação de inconsistências e resolução de problemas** em um ambiente industrial.
+I currently work in **Production Planning at Nestlé**, where I gain practical experience with **processes, information analysis and validation, data organization, identification of inconsistencies, and problem-solving** in an industrial environment.
 
-Também possuo conhecimentos em **Front-end (HTML, CSS, JavaScript e React)**, o que me permite compreender a integração entre diferentes camadas de uma aplicação.
+I also have knowledge of **Front-end (HTML, CSS, JavaScript, and React)**, which allows me to understand the integration between different layers of an application.
 
-Meu objetivo é iniciar minha carreira profissional diretamente na área de **Tecnologia da Informação**, buscando oportunidades como **Estagiária ou Desenvolvedora Júnior**, especialmente em Desenvolvimento de Software.
-
----
-
-## 🧠 Destaques Profissionais
-
-* 🎓 Técnica em Informática — 1200h
-* 💻 Foco em Desenvolvimento de Software e Back-end
-* 🏭 Experiência profissional na Nestlé — Programação de Produção
-* 🧠 Lógica de programação, POO e estruturas de dados
-* 🗄️ Bancos de dados relacionais e NoSQL
-* 🔗 Desenvolvimento e integração com APIs REST
-* 🌍 Inglês B2 (CEFR)
-* 🇩🇪 Alemão A1 (CEFR)
+My goal is to start my professional career directly in **Information Technology**, seeking opportunities as an **Intern or Junior Developer**, especially in Software Development.
 
 ---
 
-## 🧰 Stack Técnica
+## 🧠 Professional Highlights
+
+* 🎓 Information Technology Technician — 1200 hours
+* 💻 Focus on Software Development and Back-end
+* 🏭 Professional experience at Nestlé — Production Planning
+* 🧠 Programming logic, OOP, and data structures
+* 🗄️ Relational and NoSQL databases
+* 🔗 REST API development and integration
+* 🌍 English B2 (CEFR)
+* 🇩🇪 German A1 (CEFR)
+
+---
+
+## 🧰 Technical Stack
 
 ### 🔹 Back-end
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+
 </p>
 
 * Java
 * Python
 * Spring Boot
-* APIs REST
-* Arquitetura em camadas
+* REST APIs
+* Layered Architecture
 * MVC
-* Programação Orientada a Objetos
-* Lógica de negócio
+* Object-Oriented Programming
+* Business Logic
 
 ---
 
-### 🔹 Banco de Dados
+### 🔹 Databases
+NoSQL
 
+Relational Databases
+
+🔹 Front-end
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+
 </p>
 
-* MySQL
-* Oracle SQL / PL-SQL
-* NoSQL
-* Bancos de dados relacionais
+HTML5
 
----
+CSS3
 
-### 🔹 Front-end
+JavaScript
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-</p>
+React
 
-* HTML5
-* CSS3
-* JavaScript
-* React
+📂 Projects
+I am currently developing new projects focused on Software Development, with an emphasis on Java, Spring Boot, REST APIs, and databases.
 
----
+New projects will be added soon.
 
-## 📂 Projetos
+Product API
+API developed for product management, focusing on back-end development, data operations, and business logic.
 
-Atualmente, estou desenvolvendo novos projetos voltados ao **Desenvolvimento de Software**, com foco em Java, Spring Boot, APIs REST e bancos de dados.
+Technologies: Java • Spring Boot • REST API • Database
 
-Novos projetos serão adicionados em breve.
+Digital Guitar Pedalboard
+System developed in Python focused on real-time audio processing, sound effect application, and business logic management.
 
-API de Produtos
-API desenvolvida para gerenciamento de produtos, com foco em desenvolvimento de back-end, operações de dados e regras de negócio.
+Technologies: Python • Qt Designer • Audio Processing
 
-Tecnologias: Java • Spring Boot • REST API • Banco de Dados
+Interactive Planetarium
+Application developed in Java, focusing on mathematical logic, system simulation, and interactive visualization.
 
+Technologies: Java • Mathematical Logic • Simulation
 
- Pedaleira Digital para Guitarras
-Sistema desenvolvido em Python com foco em processamento de áudio em tempo real, aplicação de efeitos sonoros e gerenciamento de lógica de negócio.
+Guitar E-commerce
+Web application developed with front-end and back-end integration, database integration, and implementation of basic business rules.
 
-Tecnologias: Python • Qt Designer • Processamento de Áudio
+Technologies: HTML • CSS • JavaScript • Database
 
+🎯 Professional Objective
+I am seeking an entry-level opportunity in Information Technology, especially as an Intern or Junior Developer.
 
-Planetário Interativo
-Aplicação desenvolvida em Java, com foco em lógica matemática, simulação de sistemas e visualização interativa.
+I am interested in working with Software Development, Back-end, Java, APIs, databases, and process automation, aiming to transform real-world problems into technology-driven solutions.
 
-Tecnologias: Java • Lógica Matemática • Simulação
-
-
-E-commerce de Guitarras
-Aplicação web desenvolvida com integração entre front-end e back-end, banco de dados e implementação de regras básicas de negócio.
-
-Tecnologias: HTML • CSS • JavaScript • Banco de Dados
-
-
-
-
-
-
----
-
-## 🎯 Objetivo Profissional
-
-Busco uma oportunidade de entrada na área de **Tecnologia da Informação**, especialmente como **Estagiária ou Desenvolvedora Júnior**.
-
-Tenho interesse em atuar com **Desenvolvimento de Software, Back-end, Java, APIs, bancos de dados e automação de processos**, buscando transformar problemas reais em soluções utilizando tecnologia.
-
----
-
-## 📫 Contato
-
+📫 Contact
 <p align="center">
-  <a href="mailto:giordanastumm7@gmail.com">✉️ Email</a> |
-  <a href="https://www.linkedin.com/in/giordana-stumm-13786133a">💼 LinkedIn</a> |
-  <a href="https://www.instagram.com/stack__solutions/">💻 Stack Solutions</a>
+
+<a href="mailto:giordanastumm7@gmail.com">✉️ Email</a> |
+
+<a href="https://www.linkedin.com/in/giordana-stumm-13786133a">💼 LinkedIn</a> |
+
+<a href="https://www.instagram.com/stack__solutions/">💻 Stack Solutions</a>
+
 </p>
