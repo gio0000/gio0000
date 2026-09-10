@@ -93,6 +93,34 @@ Atualmente, estou desenvolvendo novos projetos voltados ao **Desenvolvimento de 
 
 Novos projetos serão adicionados em breve.
 
+API de Produtos
+API desenvolvida para gerenciamento de produtos, com foco em desenvolvimento de back-end, operações de dados e regras de negócio.
+
+Tecnologias: Java • Spring Boot • REST API • Banco de Dados
+
+
+ Pedaleira Digital para Guitarras
+Sistema desenvolvido em Python com foco em processamento de áudio em tempo real, aplicação de efeitos sonoros e gerenciamento de lógica de negócio.
+
+Tecnologias: Python • Qt Designer • Processamento de Áudio
+
+
+Planetário Interativo
+Aplicação desenvolvida em Java, com foco em lógica matemática, simulação de sistemas e visualização interativa.
+
+Tecnologias: Java • Lógica Matemática • Simulação
+
+
+E-commerce de Guitarras
+Aplicação web desenvolvida com integração entre front-end e back-end, banco de dados e implementação de regras básicas de negócio.
+
+Tecnologias: HTML • CSS • JavaScript • Banco de Dados
+
+
+
+
+
+
 ---
 
 ## 🎯 Objetivo Profissional
