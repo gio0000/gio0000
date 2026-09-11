@@ -26,6 +26,34 @@ My goal is to start my professional career directly in **Information Technology*
 
 ---
 
+
+## 🌐 My Portfolio
+
+I’ve recently launched my new personal portfolio, bringing together my experience, projects, technical skills, and professional journey in one place.
+
+My work focuses on **Back-end Development with Java**, **REST APIs**, **databases**, **data analysis**, and the intersection between **technology and industrial processes**.
+
+The portfolio includes:
+
+* 💻 Back-end projects with Java, Python, and REST APIs
+* 🗄️ SQL, MySQL, MongoDB, and database modeling
+* 📊 Data analysis, indicators, and automation
+* 🏭 Experience in Production Planning at Nestlé
+* 🚀 Projects developed through Stack Solutions
+* 🛠️ Technical skills, certifications, and professional experience
+
+### 🔗 Visit my portfolio
+
+**[giordana-stumm.vercel.app](https://giordana-stumm.vercel.app/)**
+
+Feel free to explore my projects and get to know my work.
+
+
+
+
+
+
+
 ## 🧠 Professional Highlights
 
 * 🎓 Information Technology Technician — 1200 hours
