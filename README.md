@@ -30,7 +30,7 @@ Meu objetivo é iniciar minha carreira profissional diretamente na área de **Te
 
 Recentemente, lancei meu novo portfólio pessoal, reunindo minha experiência, meus projetos, minhas habilidades técnicas e minha trajetória profissional em um só lugar.
 
-Meu trabalho tem foco em **Desenvolvimento Back-end com Java**, **APIs REST**, **bancos de dados**, **análise de dados** e na conexão entre **tecnologia e processos industriais**.
+Meu trabalho tem foco em **Desenvolvimento Back-end com Java**, **APIs REST**, **bancos de dados**, e **análise de dados**.
 
 O portfólio inclui:
 
